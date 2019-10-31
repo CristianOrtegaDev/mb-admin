@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "nombre": "Fabricante",
+    "descripcion": "Empresas Fabricantes",
+    "activo": "true"
+  },
+  {
+    "id": 2,
+    "nombre": "Cliente",
+    "descripcion": "Clientes",
+    "activo": "true"
+  },
+  {
+    "id": 3,
+    "nombre": "Propio",
+    "descripcion": "Clientes Propios",
+    "activo": "false"
+  },
+  {
+    "id": 4,
+    "nombre": "Externo",
+    "descripcion": "Cliente Externo",
+    "activo": "true"
+  }
+]

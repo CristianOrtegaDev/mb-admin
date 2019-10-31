@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1,
+    "nombre": "Sucursal 1",
+    "localidad": "CABA",
+    "direccion": "Corrientes 22345",
+    "activo": "true"
+  },
+  {
+    "id": 2,
+    "nombre": "Sucursal 2",
+    "localidad": "Berazategui",
+    "direccion": "Calle 138 2345",
+    "activo": "false"
+  },
+  {
+    "id": 3,
+    "nombre": "Sucursal 3",
+    "localidad": "Quilmes",
+    "direccion": "Rivadavia 2345, Quilmes, CP 1879",
+    "activo": "false"
+  },
+  {
+    "id": 4,
+    "nombre": "Sucursal 4",
+    "localidad": "Bernal",
+    "direccion": "Corrientes 6789",
+    "activo": "false"
+  },
+  {
+    "id": 5,
+    "nombre": "Sucursal 5",
+    "localidad": "CABA",
+    "direccion": "Corrientes 455",
+    "activo": "true"
+  },
+  {
+    "id": 6,
+    "nombre": "Sucursal 6",
+    "localidad": "CABA",
+    "direccion": "Corrientes 8900",
+    "activo": "true"
+  },
+  {
+    "id": 7,
+    "nombre": "Sucursal 7",
+    "localidad": "CABA",
+    "direccion": "Corrientes 234",
+    "activo": "false"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "nombre": "Tarea Diaria",
+    "descripcion": "Tarea a ejecutarse todos los Dias",
+    "activo": "true"
+  },
+  {
+    "id": 2,
+    "nombre": "Tarea Mensual",
+    "descripcion": "Tarea a Ejecutarse todos los meses",
+    "activo": "false"
+  },
+  {
+    "id": 3,
+    "nombre": "Tarea Semanal",
+    "descripcion": "Tarea A ejecutarse todas las Semanal",
+    "activo": "true"
+  },
+  {
+    "id": 4,
+    "nombre": "Tarea Unica",
+    "descripcion": "Tarea a ejecutarse 1 sola vez",
+    "activo": "false"
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1,
+    "nombre": "Quilmes",
+    "provincia": "Buenos Aires",
+    "pais": "Argentina",
+    "activo": "true"
+  },
+  {
+    "id": 2,
+    "nombre": "Federación",
+    "provincia": "Entre Rios",
+    "pais": "Argentina",
+    "activo": "true"
+  },
+  {
+    "id": 3,
+    "nombre": "Chilecito",
+    "provincia": "La Rioja",
+    "pais": "Argentina",
+    "activo": "true"
+  },
+  {
+    "id": 4,
+    "nombre": "Quilmes",
+    "provincia": "Las Lajas",
+    "pais": "Argentina",
+    "activo": "false"
+  },
+  {
+    "id": 5,
+    "nombre": "General Pico",
+    "provincia": "La Pampa",
+    "pais": "Argentina",
+    "activo": "false"
+  },
+  {
+    "id": 6,
+    "nombre": "San Martin de los Andes",
+    "provincia": "Neuquen",
+    "pais": "Argentina",
+    "activo": "false"
+  },
+  {
+    "id": 7,
+    "nombre": "Alta Gracia",
+    "provincia": "Cordoba",
+    "pais": "Argentina",
+    "activo": "false"
+  }
+]

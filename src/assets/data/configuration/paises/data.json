@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "codigo": "AR",
+    "nombre": "Argentina",
+    "activo": "true"
+  },
+  {
+    "id": 2,
+    "codigo": "UK",
+    "nombre": "Reino Unido",
+    "activo": "true"
+  },
+  {
+    "id": 3,
+    "codigo": "IT",
+    "nombre": "Italia",
+    "activo": "true"
+  },
+  {
+    "id": 4,
+    "codigo": "US",
+    "nombre": "Estados Unidos",
+    "activo": "false"
+  },
+  {
+    "id": 5,
+    "codigo": "BR",
+    "nombre": "Brazil",
+    "activo": "false"
+  },
+  {
+    "id": 6,
+    "codigo": "PR",
+    "nombre": "Peru",
+    "activo": "false"
+  },
+  {
+    "id": 7,
+    "codigo": "UY",
+    "nombre": "Uruguay",
+    "activo": "false"
+  }
+]

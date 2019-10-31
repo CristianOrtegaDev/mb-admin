@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "nombre": "La Rioja",
+    "descripcion": "Centro en La Rioja",
+    "activo": "true"
+  },
+  {
+    "id": 2,
+    "nombre": "San Martin de los Andes",
+    "descripcion": "Centro en San Martin de los Andes",
+    "activo": "true"
+  },
+  {
+    "id": 3,
+    "nombre": "Bariloche",
+    "descripcion": "Centro en Bariloche",
+    "activo": "false"
+  },
+  {
+    "id": 4,
+    "nombre": "La Plata",
+    "descripcion": "Centro en La Plata",
+    "activo": "false"
+  },
+  {
+    "id": 5,
+    "nombre": "Comodoro Rivadavia",
+    "descripcion": "Centro en Comodoro Rivadavia",
+    "activo": "true"
+  },
+  {
+    "id": 6,
+    "nombre": "Entre Rios",
+    "descripcion": "Centro en Entre Rios",
+    "activo": "false"
+  },
+  {
+    "id": 7,
+    "nombre": "La Pampa",
+    "descripcion": "La pampa, texto largo, muy largo, muy largo, muy largo, muy largo, muy largo, muy largo, muy largo, muy largo, demasiado largo",
+    "activo": "true"
+  }
+]

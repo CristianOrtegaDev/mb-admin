@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "nombre": "Chapa baliza ABC",
+    "descripcion": "Chapa baliza ABC",
+    "activo": "true"
+  },
+  {
+    "id": 2,
+    "nombre": "Manómetro",
+    "descripcion": "Manómetro 1,4 KG/CM2 con sello IRAM",
+    "activo": "true"
+  },
+  {
+    "id": 3,
+    "nombre": "Marbete Grande",
+    "descripcion": "Marbete de bakelita grande Ø 50 mm",
+    "activo": "false"
+  },
+  {
+    "id": 4,
+    "nombre": "Precintos Plásticos",
+    "descripcion": "Precintos Plásticos",
+    "activo": "false"
+  },
+  {
+    "id": 5,
+    "nombre": "Soporte de Pared",
+    "descripcion": "Soporte de pared para extintores de polvo/agua/HCFC",
+    "activo": "true"
+  },
+  {
+    "id": 6,
+    "nombre": "Traba de Seguridad",
+    "descripcion": "Traba de seguridad para válvulas de polvo/agua/HCFC/CO2 de 2,5/5/10 kg",
+    "activo": "false"
+  },
+  {
+    "id": 7,
+    "nombre": "Soporte plástico portamanguera para extintores manuales",
+    "descripcion": "Soporte plástico portamanguera para extintores manuales de polvo/agua/HCFC",
+    "activo": "true"
+  }
+]

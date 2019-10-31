@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "nombre": "Extintor Clase A",
+    "descripcion": "Todo de Elemento para Matafuegos Clase A",
+    "activo": "true"
+  },
+  {
+    "id": 2,
+    "nombre": "Hidrantes",
+    "descripcion": "Tipo de Elemento para Hidrantes",
+    "activo": "true"
+  },
+  {
+    "id": 3,
+    "nombre": "Alarmas",
+    "descripcion": "Tipo de Elemento para Alarmas",
+    "activo": "false"
+  },
+  {
+    "id": 4,
+    "nombre": "Extintor Clase B",
+    "descripcion": "Todo de Elemento para Matafuegos Clase B",
+    "activo": "false"
+  },
+  {
+    "id": 5,
+    "nombre": "Extintor Clase C",
+    "descripcion": "Todo de Elemento para Matafuegos Clase C",
+    "activo": "true"
+  }
+]

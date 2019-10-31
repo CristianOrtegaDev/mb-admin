@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "nombre": "Cliente 1",
+    "razonSocial": "Cliente 1 S.A",
+    "tipo": "Fabricante",
+    "centro": "Comodoro",
+    "cuit": "31-25469874-2",
+    "activo": "true"
+  },
+  {
+    "id": 2,
+    "nombre": "Cliente 2",
+    "razonSocial": "Cliente 2 S.A",
+    "tipo": "Fabricante",
+    "centro": "Comodoro",
+    "cuit": "31-25469874-2",
+    "activo": "false"
+  },
+  {
+    "id": 3,
+    "nombre": "Cliente 3",
+    "razonSocial": "Cliente 3 S.A",
+    "tipo": "Fabricante",
+    "centro": "Comodoro",
+    "cuit": "31-25469874-2",
+    "activo": "false"
+  },
+  {
+    "id": 4,
+    "nombre": "Cliente 4",
+    "razonSocial": "Cliente 4 S.A",
+    "tipo": "Externa",
+    "centro": "Buenos Aires",
+    "cuit": "31-25469874-2",
+    "activo": "false"
+  },
+  {
+    "id": 5,
+    "nombre": "Cliente 5",
+    "razonSocial": "Cliente 5 S.A",
+    "tipo": "Propia",
+    "centro": "Comodoro",
+    "cuit": "31-25469874-2",
+    "activo": "true"
+  },
+  {
+    "id": 6,
+    "nombre": "Cliente 6",
+    "razonSocial": "Cliente 6 S.A",
+    "tipo": "Fabricante",
+    "centro": "Buenos Aires",
+    "cuit": "31-25469874-2",
+    "activo": "true"
+  },
+  {
+    "id": 7,
+    "nombre": "Cliente 7",
+    "razonSocial": "Cliente 7 S.A",
+    "tipo": "Fabricante",
+    "centro": "Buenos Aires",
+    "cuit": "31-25469874-2",
+    "activo": "false"
+  }
+]

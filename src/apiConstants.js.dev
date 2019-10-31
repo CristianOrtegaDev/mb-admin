@@ -1,0 +1,111 @@
+//API Amazon
+
+//DEV
+
+// Auth
+export const authAPI =
+  'https://7fmzqvi5o1.execute-api.us-east-2.amazonaws.com/Prod/api/authentication/administration/login'
+export const refreshTokenUrl =
+  'https://7fmzqvi5o1.execute-api.us-east-2.amazonaws.com/Prod/api/authentication/administration/refresh-token'
+
+//USED IN "mensajes"
+export const getRecibedMsjAPI =
+  'https://jly6km7wtk.execute-api.us-east-2.amazonaws.com/Prod/api/Feed/'
+export const getSentMsjAPI =
+  'https://jly6km7wtk.execute-api.us-east-2.amazonaws.com/Prod/api/MessagePrivate/sent'
+export const getUserNamesAPI =
+  'https://9drsvko2l4.execute-api.us-east-2.amazonaws.com/Prod/api/xperson_neighbourhood/neighbourhood'
+export const postPrivateMsjAPI =
+  'https://jly6km7wtk.execute-api.us-east-2.amazonaws.com/Prod/api/MessagePrivate'
+export const postPublicMsjAPI =
+  'https://jly6km7wtk.execute-api.us-east-2.amazonaws.com/Prod/api/MessagePrivate/public'
+export const getUnreadMsjAPI =
+  'https://jly6km7wtk.execute-api.us-east-2.amazonaws.com/Prod/api/MessagePrivate/received/unread'
+
+//USED IN "familiares"
+export const getFamiliesByPropietaryIdAPI =
+  'https://9drsvko2l4.execute-api.us-east-2.amazonaws.com/Prod/api/masterdata/families/propietario/'
+
+//USED IN "feed"
+export const getEventListAPI =
+  'https://jly6km7wtk.execute-api.us-east-2.amazonaws.com/Prod/api/Event/'
+export const getNewsListAPI =
+  'https://jly6km7wtk.execute-api.us-east-2.amazonaws.com/Prod/api/NewsArticle/'
+export const postNewEventAPI =
+  'https://jly6km7wtk.execute-api.us-east-2.amazonaws.com/Prod/api/Event/'
+export const postNewArticleAPI =
+  'https://jly6km7wtk.execute-api.us-east-2.amazonaws.com/Prod/api/NewsArticle/'
+export const deleteArticleAPI =
+  'https://jly6km7wtk.execute-api.us-east-2.amazonaws.com/Prod/api/NewsArticle/'
+export const deleteEventAPI =
+  'https://jly6km7wtk.execute-api.us-east-2.amazonaws.com/Prod/api/Event/'
+
+//USED IN "lotes"
+export const getFunctionalUnitAPI =
+  'https://9drsvko2l4.execute-api.us-east-2.amazonaws.com/Prod/api/masterdata/functional-units/noasig'
+
+//USED IN "padron"
+export const postNewProprietaryAPI =
+  'https://9drsvko2l4.execute-api.us-east-2.amazonaws.com/Prod/api/person/propietary'
+export const getSearchedPadronAPI =
+  'https://9drsvko2l4.execute-api.us-east-2.amazonaws.com/Prod/api/Propietario/search/'
+export const getPadronAPI =
+  'https://9drsvko2l4.execute-api.us-east-2.amazonaws.com/Prod/api/xperson_neighbourhood/propietaries'
+
+//USED IN "proveedores"
+export const getCategoriesAPI =
+  'https://m8rc0x91x4.execute-api.us-east-2.amazonaws.com/Prod/api/categories'
+export const getSuppliersAPI =
+  'https://m8rc0x91x4.execute-api.us-east-2.amazonaws.com/Prod/api/suppliers'
+export const getServicesAPI =
+  'https://m8rc0x91x4.execute-api.us-east-2.amazonaws.com/Prod/api/services/categoryId'
+export const getNeighbourhoodAPI =
+  'https://9drsvko2l4.execute-api.us-east-2.amazonaws.com/Prod/api/masterdata/neighbourhoods'
+export const postNewSupplier =
+  'https://m8rc0x91x4.execute-api.us-east-2.amazonaws.com/Prod/api/suppliers'
+export const postNewCategory =
+  'https://m8rc0x91x4.execute-api.us-east-2.amazonaws.com/Prod/api/categories'
+export const postNewService =
+  'https://m8rc0x91x4.execute-api.us-east-2.amazonaws.com/Prod/api/services/categoryId'
+export const getSuppliersRequestAPI =
+  'https://m8rc0x91x4.execute-api.us-east-2.amazonaws.com/Prod/api/request'
+
+//USED IN "reservas"
+export const getActivitiesAPI =
+  'https://lwsm56i0ei.execute-api.us-east-2.amazonaws.com/Prod/api/activities'
+export const postNewActivitieAPI =
+  'https://lwsm56i0ei.execute-api.us-east-2.amazonaws.com/Prod/api/activities'
+export const getSpacesAPI =
+  'https://lwsm56i0ei.execute-api.us-east-2.amazonaws.com/Prod/api/spaces/actividadBarrioId'
+export const postNewSpaceAPI =
+  'https://lwsm56i0ei.execute-api.us-east-2.amazonaws.com/Prod/api/active_time'
+export const postNewExceptionsAPI =
+  'https://lwsm56i0ei.execute-api.us-east-2.amazonaws.com/Prod/api/exception-spaces'
+export const getBookingRequestAPI =
+  'https://lwsm56i0ei.execute-api.us-east-2.amazonaws.com/Prod/api/booking/future'
+export const delSpaceAPI = `https://lwsm56i0ei.execute-api.us-east-2.amazonaws.com/Prod/api/Space`
+
+//USED IN "securityStaff"
+export const postNewSecurityStaffAPI =
+  'https://pwvfnls9vc.execute-api.us-east-2.amazonaws.com/Prod/api/user/'
+export const getSearchedSecurityStaffListAPI =
+  'https://7fmzqvi5o1.execute-api.us-east-2.amazonaws.com/Prod/api/authentication/security/user/search?name='
+export const getSecurityStaffListAPI =
+  'https://7fmzqvi5o1.execute-api.us-east-2.amazonaws.com/Prod/api/authentication/security/user/search'
+
+//USED IN "invitados"
+export const getInvitationsAPI =
+  'https://d20b320zfa.execute-api.us-east-2.amazonaws.com/Prod/api/event/neighbourhood/'
+export const getGuestsAPI =
+  'https://d20b320zfa.execute-api.us-east-2.amazonaws.com/Prod/api/guest_frequency/username/'
+export const getFilteredGuestsAPI =
+  'https://d20b320zfa.execute-api.us-east-2.amazonaws.com/Prod/api/guests/today-invites/search'
+
+//USED IN "neighbourhood"
+export const getDefaultActivities =
+  'https://lwsm56i0ei.execute-api.us-east-2.amazonaws.com/Prod/api/activity'
+export const getDefaultCategories = ''
+
+// USER IN "ActiveTimes"
+export const activeTimesAPI =
+  'https://lwsm56i0ei.execute-api.us-east-2.amazonaws.com/Prod/api/active_time/space'

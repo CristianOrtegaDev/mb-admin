@@ -1,0 +1,45 @@
+.panel {
+  animation: portal-login 1s forwards 1;
+  animation-delay: 0.6s;
+  transform: translateY(20px);
+  opacity: 0;
+  height: 100%;
+}
+
+.card {
+  height: 100%;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  padding-left: 80px;
+  padding-right: 80px;
+  text-align: center;
+}
+
+.login-actions {
+  justify-content: space-between;
+  flex-direction: column;
+}
+
+.signup-content {
+  text-align: center;
+}
+
+.signup-logo {
+  max-height: 64px;
+  max-width: 100%;
+  padding: 8px;
+  box-sizing: border-box;
+  object-fit: contain;
+}
+
+@keyframes portal-login {
+  0% {
+    transform: translateY(20px);
+    opacity: 0;
+  }
+  100% {
+    transform: translateY(0px);
+    opacity: 1;
+  }
+}

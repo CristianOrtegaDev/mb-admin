@@ -1,0 +1,92 @@
+[
+  {
+    "url": "Sucursal 1",
+    "views": 312,
+    "duration": "00:00:55",
+    "conversion": "0%"
+  },
+  {
+    "url": "Sucursal 2",
+    "views": 243,
+    "duration": "00:01:05",
+    "conversion": "32%"
+  },
+  {
+    "url": "Sucursal 3",
+    "views": 1526,
+    "duration": "00:02:17",
+    "conversion": "28%"
+  },
+  {
+    "url": "Sucursal 4",
+    "views": 53,
+    "duration": "00:01:18",
+    "conversion": "55%"
+  },
+  {
+    "url": "Sucursal 5",
+    "views": 674,
+    "duration": "00:03:00",
+    "conversion": "23%"
+  },
+  {
+    "url": "Sucursal 6",
+    "views": 654,
+    "duration": "00:02:25",
+    "conversion": "32%"
+  },
+  {
+    "url": "Sucursal 7",
+    "views": 867,
+    "duration": "00:01:14",
+    "conversion": "14%"
+  },
+  {
+    "url": "Sucursal 8",
+    "views": 65,
+    "duration": "00:01:42",
+    "conversion": "12%"
+  },
+  {
+    "url": "Sucursal 9",
+    "views": 575,
+    "duration": "00:00:51",
+    "conversion": "52%"
+  },
+  {
+    "url": " Sucursal 10",
+    "views": 72,
+    "duration": "00:00:38",
+    "conversion": "88%"
+  },
+  {
+    "url": "Sucursal 11",
+    "views": 198,
+    "duration": "00:03:22",
+    "conversion": "16%"
+  },
+  {
+    "url": "Sucursal 12",
+    "views": 475,
+    "duration": "00:02:43",
+    "conversion": "97%"
+  },
+  {
+    "url": "Sucursal 13",
+    "views": 12,
+    "duration": "00:00:14",
+    "conversion": "5%"
+  },
+  {
+    "url": "Sucursal 14",
+    "views": 11,
+    "duration": "00:00:59",
+    "conversion": "79%"
+  },
+  {
+    "url": "Sucursal 15",
+    "views": 487,
+    "duration": "00:00:21",
+    "conversion": "0%"
+  }
+]

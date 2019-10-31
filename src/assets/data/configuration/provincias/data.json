@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "nombre": "Buenos Aires",
+    "pais": "Argentina",
+    "activo": "true"
+  },
+  {
+    "id": 2,
+    "nombre": "Entre Rios",
+    "pais": "Argentina",
+    "activo": "true"
+  },
+  {
+    "id": 3,
+    "nombre": "La Rioja",
+    "pais": "Argentina",
+    "activo": "true"
+  },
+  {
+    "id": 4,
+    "nombre": "Neuquen",
+    "pais": "Argentina",
+    "activo": "false"
+  },
+  {
+    "id": 5,
+    "nombre": "La Pampa",
+    "pais": "Argentina",
+    "activo": "false"
+  },
+  {
+    "id": 6,
+    "nombre": "Neuquen",
+    "pais": "Argentina",
+    "activo": "false"
+  },
+  {
+    "id": 7,
+    "nombre": "Cordoba",
+    "pais": "Argentina",
+    "activo": "false"
+  }
+]
